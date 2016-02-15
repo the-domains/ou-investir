@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Où investir]]></title>
         <description><![CDATA[Où investir]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.ou-investir.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 13:55:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 14:58:41 GMT</lastBuildDate>
+        <atom:link href="http://www.ou-investir.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Avertissements avant de commencer.]]></title>
-            <description><![CDATA[<article><h1>Avertissements avant de commencer.</h1><p>Evidemment, et surtout en cette période où les marchés financiers sont très chahutés, tout le monde est à la recherche du conseil qui assurera de faire fructifier son argent sans risque et en dépassant largement les taux ridicules du livret A. Malheureusement ce n'est certainement pas ce que vous trouverez ici. </p></article>]]></description>
-            <link>undefinedavertissements-avant-de-commencer/index.html</link>
+            <description><![CDATA[<article><h1>Avertissements avant de commencer.</h1><p>Evidemment, et surtout en cette période où les marchés financiers sont très chahutés, tout le monde est à la recherche du conseil qui assurera de faire fructifier son argent sans risque et en dépassant largement les taux ridicules du livret A. Malheureusement ce n'est certainement pas ce que vous trouverez ici. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6548ad4f2546cad668bd56d87a83da5b245acf54.jpg"></article>]]></description>
+            <link>http://www.ou-investir.fr/avertissements-avant-de-commencer/index.html</link>
             <guid isPermaLink="false">9381abd0-3ce9-44d3-93d9-cebe86a97ab3</guid>
-            <pubDate>Mon, 15 Feb 2016 13:54:47 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 14:58:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
