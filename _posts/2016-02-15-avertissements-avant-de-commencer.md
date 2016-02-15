@@ -3,25 +3,27 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T13:54:47.598Z'
-dateModified: '2016-02-15T13:45:06.783Z'
+datePublished: '2016-02-15T14:58:36.813Z'
+dateModified: '2016-02-15T14:58:33.519Z'
 title: Avertissements avant de commencer.
 author: []
+sourcePath: _posts/2016-02-15-avertissements-avant-de-commencer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-avertissements-avant-de-commencer.md
-published: true
 url: avertissements-avant-de-commencer/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a77af00d-bcb1-4a3f-8867-86c8a23d69d2.jpg)
+
 # Avertissements avant de commencer.
 
 Evidemment, et surtout en cette période où les marchés financiers sont très chahutés, tout le monde est à la recherche du conseil qui assurera de faire fructifier son argent sans risque et en dépassant largement les taux ridicules du livret A. Malheureusement ce n'est certainement pas ce que vous trouverez ici. 
