@@ -1,8 +1,30 @@
-name: Où investir
-favicon: null
-layout_spectrum: 0.6046366
 typography_spectrum: 0.4892293
-title: Où investir
+color:
+  brandColors:
+    - '#ffffff'
+    - '#41485a'
+    - '#1b143d'
+    - '#f7d3a1'
+    - '#ac9f6a'
+  brandStrength: 0.4074259
+  lightness: 0.5447099
+  saturation: 0.8070117
+  rhythmicContrast: 0.0420199
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6046366
+analytics:
+  google: UA-74696886-1
+  facebook: null
+  twitter: null
+name: Où investir
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74696886-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#41485a'
-    - '#1b143d'
-    - '#f7d3a1'
-    - '#ac9f6a'
-  brandStrength: 0.4074259
-  lightness: 0.5447099
-  saturation: 0.8070117
-  rhythmicContrast: 0.0420199
+title: Où investir
 purpose: []
